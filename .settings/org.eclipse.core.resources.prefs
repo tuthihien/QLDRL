@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/controller/giangvien/GVCNDulieuDanhGiaServlet.java=UTF-8
+encoding//src/controller/giangvien/GVCNPdfServlet.java=UTF-8
+encoding//src/controller/giangvien/TruongKhoaDuLieuDanhGiaServlet.java=UTF-8
+encoding//src/controller/giangvien/TruongKhoaPdfServlet.java=UTF-8
+encoding//src/controller/phongctsv/PCTSVPdfServlet.java=UTF-8
+encoding//src/controller/phongctsv/PhongCTSVDanhSachKetQua.java=UTF-8
+encoding//src/controller/phongctsv/PhongCTSVDanhSachSinhVien.java=UTF-8
+encoding//src/controller/phongctsv/PhongCTSVDanhSachSinhVienCapNhat.java=UTF-8
+encoding//src/controller/phongctsv/PhongCTSVDanhSachSinhVienthem.java=UTF-8
+encoding//src/controller/phongctsv/PhongCTSVDuLieu.java=UTF-8
+encoding//src/controller/sinhvien/LopTruongDanhSachDanhGiaServlet.java=UTF-8
+encoding//src/controller/sinhvien/LopTruongDuLieuDanhGiaServlet.java=UTF-8
+encoding//src/controller/sinhvien/PdfServlet.java=UTF-8
+encoding//src/controller/sinhvien/SinhVienKetQuaDanhGiaServlet.java=UTF-8
